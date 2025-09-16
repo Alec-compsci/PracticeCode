@@ -1,0 +1,29 @@
+
+header{
+    height: 250;
+    width: 980;
+    background-color: #ccc;
+    padding: 10;
+}
+
+nav{
+    height: 50;
+    width: 1000;
+    color:white;
+    background-color: black;
+    text-align: right;
+}
+article{
+    min-height: 500;
+    width: 970;
+    background-color: #ccc;
+    color: red;
+    overflow: auto;
+    padding: 15;
+}
+footer{
+    height: 300;
+    width: 1000;
+    background-color: red;
+    color: white;
+}

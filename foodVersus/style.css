@@ -1,0 +1,59 @@
+
+header{
+    height: 100;
+    width: 1000;
+    background-color: #379;
+    color: white;
+    padding: 10px;
+}
+
+nav{
+    height: 850px;
+    width: 100px;
+    padding: 10px;
+    background-color: #eed039;
+    float: left;
+}
+
+main{
+    height: 870;
+    width: 1000;
+    background-color: rgb(244, 231, 183);
+}
+
+section{
+    height: 870;
+    width: 860;
+    background-color: rgb(244, 231, 183);
+    overflow-y: scroll;
+    overflow-x: auto;
+    float: right;
+}
+
+article{
+    padding: 10px;
+    margin-top: 10px;
+    width: 520px;
+    height: 830px;
+    background-color: white;
+    color: black;
+    float:left;
+}
+
+aside{
+    margin-top: 100;
+    margin-right: 20;
+    background-color: #444;
+    width: 250;
+    height: 250;
+    color: white;
+    float: right;
+}
+
+footer{
+    height: 30;
+    width: 1000;
+    background-color: #444;
+    color: white;
+}
+
